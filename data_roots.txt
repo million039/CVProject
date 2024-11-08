@@ -1,0 +1,5 @@
+data roots
+root = E:\project\New_Data
+train_root = E:\project\New_Data\Image
+test_root = E:\project\New_Data\test
+valid_root = E:\project\New_Data\valid
