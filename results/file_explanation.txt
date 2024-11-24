@@ -1,0 +1,25 @@
+*** 현재 최신 pt파일: GRU_Final_nofit_2class_no_duplicated_frames_ratio_class_speed_normalgru.pt ***
+***그 외의 pt 파일을 사용할 경우:
+    calculate_head_upper_body_speed()함수에서 다음을 주석 처리 제외:
+    	# bbox_portion = (x2 - x1) * (y2 - y1) / VID_RESOLUTION[0] / VID_RESOLUTION[1] * 1000
+    	# speed *= bbox_portion
+
+
+2class: Normal(0), Fall(1)만 있음. Danger(1) -> 0
+==> Danger를 감지하는 정확도가 유독 낮아서 시도함
+
+no_duplicated_frames: 기존의 sequence가 (0, 1, 2), (1, 2, 3), (2, 3, 4)... 였다면 (0, 1, 2), (3, 4, 5), (6, 7, 8)로 바꿈
+==> 학습 시간은 감소하면서 정확도 또한 증가
+
+only_posexy: 바운딩박스, 속도 관련값 전부 빼고 pose의 xy값 22개만 입력으로 씀
+==> 그래프는 제일 잘나왔던듯함
+
+ratio_class_speed: 각각 바운딩박스 비율, 바운딩박스 클래스, 머리-몸통 속도를 학습에 포함시켰음을 의미
+
+lr_xxxx: learning rate를 각 수치로 변화시켰음을 의미
+==> lr=0.0001에서 제일 그래프 형태도 괜찮고 train과 valid 사이의 차이도 적었음 
+
+normalgru / deep: 각각 gru모델의 복잡도 (전자: 덕휘님이 기존에 쓰던 간단한 모델, 후자: 제가 10초 감지에 쓰던 좀더 복잡한 모델)
+==> deep은 그래프 형태도 크게 이상하고 학습도 오래 걸림
+
+_temp: 학습후 이름을 정하기 전까지 임시로 생성되는 pt파일
