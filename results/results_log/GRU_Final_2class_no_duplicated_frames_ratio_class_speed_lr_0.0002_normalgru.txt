@@ -1,0 +1,60 @@
+Epoch: 49/150 | T_Loss 0.122 | T_Acc 0.949 | V_Loss  0.14 | V_Acc 0.944 | Time 3.919
+Epoch: 48/150 | T_Loss 0.122 | T_Acc  0.95 | V_Loss  0.14 | V_Acc 0.944 | Time 3.887
+Epoch: 47/150 | T_Loss 0.122 | T_Acc  0.95 | V_Loss  0.14 | V_Acc 0.944 | Time 3.878
+Epoch: 46/150 | T_Loss 0.122 | T_Acc  0.95 | V_Loss  0.14 | V_Acc 0.944 | Time 3.918
+Epoch: 45/150 | T_Loss 0.122 | T_Acc  0.95 | V_Loss 0.141 | V_Acc 0.944 | Time 3.863
+Epoch: 44/150 | T_Loss 0.123 | T_Acc 0.949 | V_Loss  0.14 | V_Acc 0.944 | Time 3.888
+Epoch: 43/150 | T_Loss 0.122 | T_Acc  0.95 | V_Loss  0.14 | V_Acc 0.944 | Time 3.851
+Epoch: 42/150 | T_Loss 0.123 | T_Acc 0.949 | V_Loss 0.139 | V_Acc 0.944 | Time 3.827
+Epoch: 41/150 | T_Loss 0.123 | T_Acc 0.949 | V_Loss 0.137 | V_Acc 0.944 | Time 3.897
+Epoch: 40/150 | T_Loss 0.124 | T_Acc 0.949 | V_Loss 0.138 | V_Acc 0.944 | Time 3.834
+Epoch: 39/150 | T_Loss 0.123 | T_Acc 0.949 | V_Loss 0.143 | V_Acc 0.943 | Time 3.876
+Epoch: 38/150 | T_Loss 0.123 | T_Acc 0.949 | V_Loss  0.14 | V_Acc 0.943 | Time 3.846
+Epoch: 37/150 | T_Loss 0.125 | T_Acc 0.948 | V_Loss 0.138 | V_Acc 0.944 | Time 3.862
+Epoch: 36/150 | T_Loss 0.125 | T_Acc 0.948 | V_Loss  0.14 | V_Acc 0.945 | Time 3.907
+Epoch: 35/150 | T_Loss 0.127 | T_Acc 0.948 | V_Loss 0.133 | V_Acc 0.947 | Time 3.863
+Epoch: 34/150 | T_Loss 0.128 | T_Acc 0.947 | V_Loss 0.134 | V_Acc 0.946 | Time 3.878
+Epoch: 33/150 | T_Loss  0.13 | T_Acc 0.946 | V_Loss 0.145 | V_Acc 0.942 | Time 3.862
+Epoch: 32/150 | T_Loss 0.132 | T_Acc 0.944 | V_Loss 0.152 | V_Acc  0.94 | Time 3.875
+Epoch: 31/150 | T_Loss 0.134 | T_Acc 0.945 | V_Loss  0.14 | V_Acc 0.942 | Time 3.895
+Epoch: 30/150 | T_Loss 0.134 | T_Acc 0.943 | V_Loss 0.132 | V_Acc 0.946 | Time 3.823
+Epoch: 29/150 | T_Loss 0.135 | T_Acc 0.944 | V_Loss  0.13 | V_Acc 0.944 | Time 3.839 | Best model saved: 0.1305
+Epoch: 28/150 | T_Loss 0.136 | T_Acc 0.942 | V_Loss 0.139 | V_Acc 0.942 | Time  3.85
+Epoch: 27/150 | T_Loss 0.138 | T_Acc 0.943 | V_Loss 0.149 | V_Acc 0.943 | Time 3.818
+Epoch: 26/150 | T_Loss 0.139 | T_Acc 0.941 | V_Loss 0.144 | V_Acc 0.943 | Time 3.861
+Epoch: 25/150 | T_Loss 0.141 | T_Acc  0.94 | V_Loss 0.147 | V_Acc  0.94 | Time 4.068
+Epoch: 24/150 | T_Loss 0.142 | T_Acc  0.94 | V_Loss 0.147 | V_Acc  0.94 | Time 4.037
+Epoch: 23/150 | T_Loss 0.143 | T_Acc  0.94 | V_Loss 0.138 | V_Acc 0.942 | Time 3.863 | Best model saved: 0.1376
+Epoch: 22/150 | T_Loss 0.145 | T_Acc  0.94 | V_Loss 0.139 | V_Acc 0.939 | Time 3.888 | Best model saved: 0.1392
+Epoch: 21/150 | T_Loss 0.147 | T_Acc 0.937 | V_Loss 0.156 | V_Acc 0.941 | Time 3.901
+Epoch: 20/150 | T_Loss 0.148 | T_Acc 0.937 | V_Loss 0.139 | V_Acc 0.942 | Time 3.862 | Best model saved: 0.1394
+Epoch: 19/150 | T_Loss 0.151 | T_Acc 0.936 | V_Loss 0.147 | V_Acc  0.94 | Time 3.898
+Epoch: 18/150 | T_Loss 0.153 | T_Acc 0.935 | V_Loss 0.142 | V_Acc 0.942 | Time 3.846 | Best model saved: 0.1422
+Epoch: 17/150 | T_Loss 0.155 | T_Acc 0.935 | V_Loss 0.149 | V_Acc 0.939 | Time 3.837
+Epoch: 16/150 | T_Loss 0.158 | T_Acc 0.932 | V_Loss 0.163 | V_Acc  0.94 | Time 3.875
+Epoch: 15/150 | T_Loss 0.161 | T_Acc 0.932 | V_Loss  0.15 | V_Acc 0.938 | Time 3.838
+Epoch: 14/150 | T_Loss 0.164 | T_Acc  0.93 | V_Loss 0.151 | V_Acc 0.937 | Time 3.828
+Epoch: 13/150 | T_Loss 0.166 | T_Acc 0.929 | V_Loss 0.145 | V_Acc 0.942 | Time 3.918 | Best model saved: 0.1450
+Epoch: 12/150 | T_Loss 0.169 | T_Acc 0.929 | V_Loss 0.147 | V_Acc  0.94 | Time 3.849
+Epoch: 11/150 | T_Loss 0.172 | T_Acc 0.926 | V_Loss  0.15 | V_Acc 0.935 | Time 3.923
+Epoch: 10/150 | T_Loss 0.174 | T_Acc 0.926 | V_Loss 0.155 | V_Acc 0.938 | Time 3.839
+Epoch: 9/150 | T_Loss 0.176 | T_Acc 0.925 | V_Loss 0.153 | V_Acc 0.937 | Time 3.839
+Epoch: 8/150 | T_Loss  0.18 | T_Acc 0.924 | V_Loss 0.147 | V_Acc 0.939 | Time 3.806 | Best model saved: 0.1467
+Epoch: 7/150 | T_Loss 0.182 | T_Acc 0.923 | V_Loss 0.152 | V_Acc 0.936 | Time 3.653 | Best model saved: 0.1520
+Epoch: 6/150 | T_Loss 0.185 | T_Acc 0.921 | V_Loss 0.156 | V_Acc 0.934 | Time 3.774
+Epoch: 5/150 | T_Loss 0.189 | T_Acc  0.92 | V_Loss 0.157 | V_Acc 0.936 | Time  3.71
+Epoch: 4/150 | T_Loss 0.193 | T_Acc 0.918 | V_Loss 0.153 | V_Acc 0.931 | Time 3.634 | Best model saved: 0.1531
+Epoch: 3/150 | T_Loss 0.197 | T_Acc 0.916 | V_Loss  0.16 | V_Acc  0.93 | Time 3.817
+Epoch: 2/150 | T_Loss 0.207 | T_Acc 0.913 | V_Loss 0.156 | V_Acc 0.934 | Time 3.738 | Best model saved: 0.1558
+Epoch: 1/150 | T_Loss 0.251 | T_Acc 0.892 | V_Loss 0.166 | V_Acc 0.929 | Time 3.692 | Best model saved: 0.1657
+Early stopping
+Train F1: 0.9468
+Train CM:
+[[35111  2443]
+ [  629 18973]]
+Validation F1: 0.9440
+Validation CM:
+[[4298  256]
+ [ 145 2429]]
+Training completed
+Saved.

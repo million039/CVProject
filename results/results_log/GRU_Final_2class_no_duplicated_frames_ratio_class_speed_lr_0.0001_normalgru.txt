@@ -1,0 +1,62 @@
+Epoch: 51/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.872
+Epoch: 50/150 | T_Loss 0.163 | T_Acc 0.932 | V_Loss 0.148 | V_Acc 0.941 | Time 3.861
+Epoch: 49/150 | T_Loss 0.162 | T_Acc 0.932 | V_Loss 0.148 | V_Acc 0.941 | Time 3.878
+Epoch: 48/150 | T_Loss 0.163 | T_Acc 0.932 | V_Loss 0.148 | V_Acc 0.941 | Time  3.85
+Epoch: 47/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.841
+Epoch: 46/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.846
+Epoch: 45/150 | T_Loss 0.163 | T_Acc 0.932 | V_Loss 0.148 | V_Acc 0.941 | Time 3.854
+Epoch: 44/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time  3.82
+Epoch: 43/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.848
+Epoch: 42/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.862
+Epoch: 41/150 | T_Loss 0.162 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.855
+Epoch: 40/150 | T_Loss 0.162 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.847
+Epoch: 39/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.855
+Epoch: 38/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.897
+Epoch: 37/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.941 | Time 3.851
+Epoch: 36/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.859
+Epoch: 35/150 | T_Loss 0.163 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.858
+Epoch: 34/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.879
+Epoch: 33/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.148 | V_Acc  0.94 | Time 3.882
+Epoch: 32/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.148 | V_Acc  0.94 | Time  3.86
+Epoch: 31/150 | T_Loss 0.164 | T_Acc 0.933 | V_Loss 0.147 | V_Acc 0.942 | Time 3.725 | Best model saved: 0.1471
+Epoch: 30/150 | T_Loss 0.164 | T_Acc  0.93 | V_Loss 0.149 | V_Acc 0.941 | Time 3.674
+Epoch: 29/150 | T_Loss 0.164 | T_Acc 0.931 | V_Loss 0.149 | V_Acc 0.941 | Time 3.683
+Epoch: 28/150 | T_Loss 0.165 | T_Acc 0.931 | V_Loss 0.148 | V_Acc 0.942 | Time 3.631 | Best model saved: 0.1479
+Epoch: 27/150 | T_Loss 0.165 | T_Acc 0.931 | V_Loss  0.15 | V_Acc  0.94 | Time 3.796
+Epoch: 26/150 | T_Loss 0.167 | T_Acc 0.929 | V_Loss 0.149 | V_Acc  0.94 | Time 3.674
+Epoch: 25/150 | T_Loss 0.168 | T_Acc 0.929 | V_Loss 0.149 | V_Acc 0.941 | Time 3.618
+Epoch: 24/150 | T_Loss 0.168 | T_Acc 0.929 | V_Loss  0.15 | V_Acc  0.94 | Time 3.743
+Epoch: 23/150 | T_Loss 0.171 | T_Acc 0.927 | V_Loss 0.156 | V_Acc 0.937 | Time 3.381
+Epoch: 22/150 | T_Loss 0.171 | T_Acc 0.928 | V_Loss  0.15 | V_Acc 0.937 | Time  3.79
+Epoch: 21/150 | T_Loss 0.172 | T_Acc 0.927 | V_Loss 0.149 | V_Acc 0.939 | Time 3.644
+Epoch: 20/150 | T_Loss 0.174 | T_Acc 0.926 | V_Loss 0.149 | V_Acc  0.94 | Time 3.668 | Best model saved: 0.1487
+Epoch: 19/150 | T_Loss 0.175 | T_Acc 0.925 | V_Loss 0.154 | V_Acc 0.939 | Time 3.868
+Epoch: 18/150 | T_Loss 0.176 | T_Acc 0.925 | V_Loss 0.151 | V_Acc  0.94 | Time 3.662 | Best model saved: 0.1506
+Epoch: 17/150 | T_Loss 0.177 | T_Acc 0.924 | V_Loss 0.156 | V_Acc 0.937 | Time 3.643
+Epoch: 16/150 | T_Loss 0.179 | T_Acc 0.924 | V_Loss 0.151 | V_Acc 0.939 | Time 3.743 | Best model saved: 0.1510
+Epoch: 15/150 | T_Loss 0.179 | T_Acc 0.924 | V_Loss 0.154 | V_Acc 0.936 | Time 3.772
+Epoch: 14/150 | T_Loss 0.181 | T_Acc 0.923 | V_Loss 0.153 | V_Acc 0.936 | Time 3.673
+Epoch: 13/150 | T_Loss 0.183 | T_Acc 0.923 | V_Loss 0.153 | V_Acc 0.936 | Time 3.643 | Best model saved: 0.1529
+Epoch: 12/150 | T_Loss 0.183 | T_Acc 0.922 | V_Loss 0.156 | V_Acc 0.934 | Time 3.603
+Epoch: 11/150 | T_Loss 0.186 | T_Acc 0.921 | V_Loss 0.157 | V_Acc 0.934 | Time 3.814
+Epoch: 10/150 | T_Loss 0.186 | T_Acc  0.92 | V_Loss 0.156 | V_Acc 0.935 | Time 3.761
+Epoch: 9/150 | T_Loss 0.189 | T_Acc  0.92 | V_Loss 0.155 | V_Acc 0.931 | Time 3.616
+Epoch: 8/150 | T_Loss 0.191 | T_Acc 0.919 | V_Loss 0.156 | V_Acc 0.936 | Time 3.646
+Epoch: 7/150 | T_Loss 0.192 | T_Acc 0.918 | V_Loss 0.154 | V_Acc 0.933 | Time 3.674 | Best model saved: 0.1540
+Epoch: 6/150 | T_Loss 0.196 | T_Acc 0.917 | V_Loss  0.16 | V_Acc 0.932 | Time 3.668
+Epoch: 5/150 | T_Loss 0.199 | T_Acc 0.915 | V_Loss 0.156 | V_Acc 0.931 | Time 3.774 | Best model saved: 0.1557
+Epoch: 4/150 | T_Loss 0.206 | T_Acc 0.913 | V_Loss  0.16 | V_Acc 0.928 | Time 3.784 | Best model saved: 0.1602
+Epoch: 3/150 | T_Loss 0.212 | T_Acc 0.911 | V_Loss 0.163 | V_Acc 0.929 | Time 3.799 | Best model saved: 0.1628
+Epoch: 2/150 | T_Loss 0.221 | T_Acc 0.908 | V_Loss 0.174 | V_Acc 0.923 | Time 3.792 | Best model saved: 0.1740
+Epoch: 1/150 | T_Loss 0.287 | T_Acc 0.868 | V_Loss 0.179 | V_Acc 0.924 | Time 3.756 | Best model saved: 0.1793
+Early stopping
+Train F1: 0.9332
+Train CM:
+[[34518  3036]
+ [  825 18777]]
+Validation F1: 0.9418
+Validation CM:
+[[4279  275]
+ [ 142 2432]]
+Training completed
+Saved.
