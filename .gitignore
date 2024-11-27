@@ -4,6 +4,8 @@ detect_torch__hub_yolo.ipynb
 detect_yolo.ipynb
 detect_LSTM_or_GRU.ipynb
 detect_LSTM_or_GRU_onlyxy.ipynb
+bfg-1.14.0.jar
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/pythonvanilla
 # Edit at https://www.toptal.com/developers/gitignore?templates=pythonvanilla
