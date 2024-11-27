@@ -1,0 +1,9 @@
+xxx_except_normalization: 정규화 미시행
+
+전체 데이터: pose_xy(len=22), bbox_xyxy(len=4), bbox_ratio(len=1), bbox_class(len=1), speed(len=1)
+
+only_mediapipe:				pose_xy => len=22
+mediapipe_sensordata: 			pose_xy => len=22 (차이점을 잘 모르겠음...)
+mediapipe_sensordata_bbox:			pose_xy, bbox_xyxy, bbox_ratio => len=27
+mediapipe_sensordata_ratio_speed: 		pose_xy, bbox_ratio, bbox_class, speed =>len=25
+mediapipe_sensordata_bbox_ratio_speed: 	pose_xy, bbox_xyxy, bbox_ratio, bbox_class, speed =>len=29
